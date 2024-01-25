@@ -537,4 +537,12 @@ Setup & test acc & test loss & trainingTime \\ \hline
 4 & 0.8787 & 0.3857 & 85.038 \\ \hline
 5 & 0.9003 & 0.2858 & 145.299 \\ \hline
 \end{array}
+
 $$
+
+---
+Universidade Federal do Rio Grande do Sul
+
+Instituto de Informática - Departamento de Informática Aplicada
+
+Inteligência Artificial - Prof. Joel Luís Carbonera (2023/2)
