@@ -1,11 +1,5 @@
-Aprendizagem Supervisionada
+# Aprendizagem Supervisionada
 ---
-
-Leonardo Azzi Martins, 00323721, Turma A
-
-Alisson Claudino de Jesus, 00246796, Turma A
-
-Vitor Pedrollo dos Santos, 00312948, Turma A
 
 # **Regressão Linear**
 
